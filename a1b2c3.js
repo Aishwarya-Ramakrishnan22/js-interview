@@ -7,7 +7,8 @@ for(let i=0; i<val.length ; i++){
 // checks even condition and pushes the val[i] which is even to chars array
     if (i%2==0){
         chars.push(val[i])
-    }https://github.com/Aishwarya-Ramakrishnan22/js-interview/compare/master?expand=1
+        
+    }
 // else it goes to the nums array
     else{
         nums.push(val[i])
